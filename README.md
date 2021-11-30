@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArditGj-Dev
-- 👀 I’m interested in back-end and Rest full api
-- 🌱 I’m currently learning Spring boot and Java
+- 👀 I’m interested in front-end and Rest full api
+- 🌱 I’m currently learning Angular and Java
 
 - 📫 How to reach me email: agjeta18@beder.edu.al
                              arditgjeta01@gmail.com
